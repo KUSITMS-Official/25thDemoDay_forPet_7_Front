@@ -20,12 +20,12 @@ Typescript, React
     <tr>
       <th>Front-end</th>
       <td>이영현<br/><a href="https://github.com/Lee-Yeonghyeon" target="_blank">@Lee-Yeonghyeon</a></td>
-      <td colspan="2">전우정<br/><a href="https://github.com/xilucks" target="_blank">@xilucks</a></td>
+      <td colspan="2">전우정<br/><a href="https://github.com/Woojung0618" target="_blank">@Woojung0618</a></td>
     </tr>
     <tr>
       <th>Back-end</th>
-      <td>김유정<br/><a href="https://github.com/ympark99" target="_blank">@ympark99</a></td>
-      <td colspan="2">유정민<br/><a href="https://github.com/jaejlf" target="_blank">@jaejlf</a></td>
+      <td>김유정<br/><a href="https://github.com/yujeongkimm" target="_blank">@yujeongkimm</a></td>
+      <td colspan="2">유정민<br/><a href="https://github.com/Jeongminyooa" target="_blank">@Jeongminyooa</a></td>
     </tr>
   </tbody>
 </table>
