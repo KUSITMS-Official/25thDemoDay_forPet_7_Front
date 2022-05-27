@@ -1,46 +1,34 @@
-# Getting Started with Create React App
+## 프로젝트 소개
+온/오프라인 지도 서비스와 반려가구 커넥트를 형성하여 완벽한 반려생활의 나침반이 되고자 기획한 반려견 원스톱 플랫폼
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 개발 언어 / 사용 라이브러리
+Typescript, React
 
-## Available Scripts
+### 멤버
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">Plan</th>
+      <td>김예진</td>
+      <td>박연수</td>
+      <td>현가영</td>
+    </tr>
+    <tr>
+      <th>Design</th>
+      <td colspan="3">김희연</td>
+    </tr>
+    <tr>
+      <th>Front-end</th>
+      <td>이영현<br/><a href="https://github.com/Lee-Yeonghyeon" target="_blank">@Lee-Yeonghyeon</a></td>
+      <td colspan="2">전우정<br/><a href="https://github.com/xilucks" target="_blank">@xilucks</a></td>
+    </tr>
+    <tr>
+      <th>Back-end</th>
+      <td>김유정<br/><a href="https://github.com/ympark99" target="_blank">@ympark99</a></td>
+      <td colspan="2">유정민<br/><a href="https://github.com/jaejlf" target="_blank">@jaejlf</a></td>
+    </tr>
+  </tbody>
+</table>
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 실행방법
+npm i 및 npm run dev(yarn dev) 후, http://localhost:3000/ 접속
