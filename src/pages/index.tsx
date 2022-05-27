@@ -1,0 +1,10 @@
+export { default as Home } from "./Home";
+export { default as Login } from "./Login";
+export { default as LoginForpet } from "./LoginForpet";
+export { default as MyPage } from "./MyPage";
+export { default as ChooseMaps } from "./ChooseMaps";
+export { default as OnlineMap } from "./OnlineMap";
+export { default as OfflineMap } from "./OfflineMap";
+export { default as OauthHandler } from "./OauthHandler";
+export { default as NotFound } from "./NotFound";
+export { default as ReviewWrite } from "./ReviewWrite"; 
